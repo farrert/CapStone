@@ -1,0 +1,15 @@
+Q:\OOP Capstone\CapStone\CapStone\bin\Debug\CapStone.exe.config
+Q:\OOP Capstone\CapStone\CapStone\bin\Debug\CapStone.exe
+Q:\OOP Capstone\CapStone\CapStone\bin\Debug\CapStone.pdb
+Q:\OOP Capstone\CapStone\CapStone\obj\Debug\CapStone.csprojAssemblyReference.cache
+Q:\OOP Capstone\CapStone\CapStone\obj\Debug\View\MainWindow.g.cs
+Q:\OOP Capstone\CapStone\CapStone\obj\Debug\App.g.cs
+Q:\OOP Capstone\CapStone\CapStone\obj\Debug\CapStone_MarkupCompile.cache
+Q:\OOP Capstone\CapStone\CapStone\obj\Debug\CapStone_MarkupCompile.lref
+Q:\OOP Capstone\CapStone\CapStone\obj\Debug\View\MainWindow.baml
+Q:\OOP Capstone\CapStone\CapStone\obj\Debug\CapStone.g.resources
+Q:\OOP Capstone\CapStone\CapStone\obj\Debug\CapStone.Properties.Resources.resources
+Q:\OOP Capstone\CapStone\CapStone\obj\Debug\CapStone.csproj.GenerateResource.cache
+Q:\OOP Capstone\CapStone\CapStone\obj\Debug\CapStone.exe
+Q:\OOP Capstone\CapStone\CapStone\obj\Debug\CapStone.pdb
+Q:\OOP Capstone\CapStone\CapStone\obj\Debug\GeneratedInternalTypeHelper.g.cs
